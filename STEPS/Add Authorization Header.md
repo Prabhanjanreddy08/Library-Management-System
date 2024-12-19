@@ -4,5 +4,6 @@ Steps to Set Authorization in Postman:
       Open Postman.
       Select the Headers tab.
       Add the following key-value pair to the Headers section:
+   
         Key: Authorization
         Value: Bearer library123
