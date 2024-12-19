@@ -8,7 +8,7 @@ A. Create a Member (POST)
         Go to the Body tab in Postman.
         Select raw and then JSON from the dropdown.
         Enter the following JSON data to create a new member:
-
+        
         {
             "name": "John Doe"
         }
