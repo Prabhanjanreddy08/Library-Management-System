@@ -12,7 +12,7 @@ A. Create a Member (POST)
         {
             "name": "John Doe"
         }
-        Click Send to make the request.
+ Click Send to make the request.
         Response (Expected):
 
         {
@@ -70,7 +70,7 @@ D. Update a Member (PUT)
             "name": "John Smith"
         }
 
-        Click Send to make the request.
+ Click Send to make the request.
         Response (Expected):
 
         {
@@ -86,7 +86,8 @@ E. Delete a Member (DELETE)
         URL: http://127.0.0.1:5000/members/1 (Replace 1 with the ID of the member you want to delete)
         Headers:
         Key: Authorization, Value: Bearer library123
-        Click Send to make the request.
+        
+ Click Send to make the request.
         Response (Expected):
         
         {
